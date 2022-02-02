@@ -27,6 +27,14 @@ Embroidery needle
 ## Notes
 US crochet terms used through
 
+sc = Single crochet
+
+inc = increase
+
+dec = invisible decrease
+
+R10 (dec, sc x 2) x 3 (9) = Row ten, decrease  using invisible decrease, single crochet into the next two stitches. Repeat this process twice more. Result should be equal to nine sitches.
+
 
 
 ## Feet (make 4)
