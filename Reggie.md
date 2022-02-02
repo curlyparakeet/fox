@@ -1,5 +1,5 @@
 # Reggie the Fox scarf
-This patten should, in theory, make a Fox scarf.  I've only done this pattern once (crocheting and making at the same time) so there might be mistakes. 
+This patten should, in theory, make a Fox scarf.  I've only done this pattern once (crocheting and making at the same time) so there ~~might~~ will be mistakes. 
 
 Pull requests to correct mistakes greatly appreciated.
 
@@ -33,7 +33,11 @@ inc = increase
 
 dec = invisible decrease
 
-R10 (dec, sc x 2) x 3 (9) = Row ten, decrease  using invisible decrease, single crochet into the next two stitches. Repeat this process twice more. Result should be equal to nine sitches.
+dc = double crochet
+
+slst = slip stitch
+
+R10 (dec, sc x 2) x 3 (9) = Row ten, decrease using invisible decrease, single crochet into the next two stitches. Repeat this process twice more. Result should be equal to nine sitches.
 
 
 
@@ -211,4 +215,20 @@ R30 (inc, sc x 4) x 6 (36)
 
 R31 sc into each st (36)
 
-R32-35 Repeat R31
+R32-R36 Repeat R31
+
+### Options
+
+You can continue with single crochet and continue repeating R31 until the desired scarf length is obtained.  Or you can switch to double crochet so the the scarf works up faster.
+
+For the double crochet option, do the following
+
+R37 ch 2, dc in each st
+
+R38 slst to join
+
+R39 repeat R37 and R38 until desired lengh is reached.
+
+
+R37
+
