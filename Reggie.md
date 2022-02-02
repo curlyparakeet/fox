@@ -139,3 +139,68 @@ Bind off leaving longish tail for sewing
 Flatten an ear into a little black tipped triangle.  Stitch onto head.  Repeat with the other ear.
 
 
+## Tail and body
+
+White yarn
+
+Magic ring
+
+R1 sc x 6 into MR (6)
+
+R2 (inc, sc x 2) x 2 (8)
+
+R3 (inc, sc x 3) x 2 (10)
+
+R4 (inc, sc x 4) x 2 (12)
+
+R5 (inc, sc x 5) x 2 (14)
+
+R6 (inc, sc x 6) x 2 (16)
+
+R7 (inc, sc x 7) x 2 (18)
+
+R8 (inc, sc x 8) x 2 (20)
+
+Switch to brown yarn
+
+R9 (inc, sc x 9) x 2 (22)
+
+R10 (inc, sc x 10) x 2 (24)
+
+R11 (inc, sc x 11) x 2 (26)
+
+R12 sc into each st (26)
+
+R13-R16 Repeat R12
+
+R17 (dec, sc x 11) x 2 (24)
+
+R18 (dec, sc x 10) x 2 (22)
+
+R19 (dec, sc x 9) x 2 (20)
+
+R20 (dec, sc x 8) x 2 (18)
+
+R21 sc into each st (18)
+
+R22 Repeat R21
+
+R23 (dec x 2, sc x 5) x 2 (14)
+
+R24 (dec, sc x 5) x 2 (12)
+
+R25 sc into each st (12)
+
+R26 Repeat R25
+
+R27 (inc, sc) x 6 (18)
+
+R28 (inc, sc x 2) x 6 (24)
+
+R29 (inc, sc x 3) x 6 (30)
+
+R30 (inc, sc x 4) x 6 (36)
+
+R31 sc into each st (36)
+
+R32-35 Repeat R31
