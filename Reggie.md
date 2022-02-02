@@ -27,7 +27,7 @@ Embroidery needle
 ## Notes
 US crochet terms used through
 
-sc = Single crochet
+sc = single crochet
 
 inc = increase
 
