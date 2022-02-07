@@ -114,9 +114,15 @@ R25 (dec, sc x 5) x 6 (36)
 
 R26 (dec, sc x 4) x 6 (30)
 
+Begin stuffing.
+
 R27 (dec, sc x 3) x 6 (24)
 
+Continue stuffing.
+
 R28 (dec, sc x 2) x 6 (18)
+
+Finish stuffing.
 
 R29 (dec, sc) x 6 (12)
 
