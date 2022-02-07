@@ -152,11 +152,13 @@ R6 (inc, sc x 5) x 2 (14)
 
 R7 (inc, sc x 6) x 2 (16)
 
-R8 (inc, sc x 7) x 2 (20)
+R8 (inc, sc x 7) x 2 (18)
 
-R8 sc into all st (20)
+R8 sc into all st (18)
 
 R9 (dec, sc 7) x 2 (16)
+
+R10 (dec, sc 6) x 2 (16)
 
 Bind off leaving longish tail for sewing
 
