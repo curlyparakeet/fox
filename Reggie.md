@@ -61,7 +61,7 @@ Change to brown
 
 R8 sc all around
 
-R9-15 repeat row 8
+R9-20 repeat row 8
 
 Note: if you want longer legs, repeat row 8 until desired length is reached.
 Bind off leaving long tail for stitching.
