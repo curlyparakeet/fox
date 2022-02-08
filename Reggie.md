@@ -12,9 +12,9 @@ Whichever yarn you use, remember to choose a hook small enough to make the head 
 
 
 ## Materials
-Yarn (I used aran weight cotton):
-- brown (foxy) colour (~250m) 
-- White < 20m
+Yarn (I used chunky):
+- Spice (Foxy colour) (~250m) 
+- Cream < 20m
 -  Black < 20m
 
 Safety eyes (but you could use stitching or buttons).  These will need to be quite large eyes.  The ones I used are 15mm and are too small.  Something around the 20mm would be better. 
