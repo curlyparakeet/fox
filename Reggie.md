@@ -7,8 +7,8 @@ Pull requests to correct mistakes greatly appreciated.
 You may use this pattern without charge, but you may not sell the pattern or use it to make a product which you sell.
 
 
-I made this using aran weight cotton yarn with a 4mm hook.  It would work really nicely with chunky yarn and a 5mm hook.  
-Remember to choose a hook small enough to make the head without there being too many gaps as it will be lightly stuffed.
+I made this using King Cole Big Value Chunky yarn with a 5mm hook.   The colours are Spice, Black and Cream.
+Whichever yarn you use, remember to choose a hook small enough to make the head without there being too many gaps as it will be stuffed.
 
 
 ## Materials
@@ -17,11 +17,11 @@ Yarn (I used aran weight cotton):
 - White < 20m
 -  Black < 20m
 
-Safety eyes (but you could use stitching or buttons) 
+Safety eyes (but you could use stitching or buttons).  These will need to be quite large eyes.  The ones I used are 15mm and are too small.  Something around the 20mm would be better. 
 
-Hook (I used 4mm)
+Hook (I used 5mm)
 
-Embroidery needle
+Embroidery needle (for stitching on the nose and sewing it all together.
 
 
 ## Notes
@@ -57,7 +57,7 @@ R4 Sc all round (18)
 
 R5-7 Repeat row 4
 
-Change to brown 
+Change to Spice yarn 
 
 R8 sc all around
 
@@ -68,7 +68,7 @@ Bind off leaving long tail for stitching.
 
 ## Head
 
-White yarn
+Cream yarn
 
 Magic ring
 
@@ -90,7 +90,7 @@ R8-R9 Repeat R7
 
 R10 (inc, sc x 6) x 3 (24)
 
-Change to brown yarn
+Change to Spice yarn
 
 R11 (inc, sc x 3) x 6 (30)
 
@@ -142,7 +142,7 @@ R2 (inc, sc) x 2 (6)
 
 R3 (inc, sc x 2) x 2 (8)
 
-Change to brown yarn
+Change to Spice yarn
 
 R4 (inc, sc x 3) x 2 (10)
 
@@ -162,7 +162,7 @@ R11 (dec, sc 6) x 2 (14)
 
 Bind off leaving longish tail for sewing
 
-Flatten an ear into a little black tipped triangle.  Stitch onto head.  Repeat with the other ear.
+Flatten an ear into a little black tipped triangle and curve the base into a "C" shape.  Stitch onto head.  Repeat with the other ear.
 
 
 ## Tail and body
@@ -187,7 +187,7 @@ R7 (inc, sc x 7) x 2 (18)
 
 R8 (inc, sc x 8) x 2 (20)
 
-Switch to brown yarn
+Switch to Spice yarn
 
 R9 (inc, sc x 9) x 2 (22)
 
