@@ -187,19 +187,25 @@ R7 (inc, sc x 7) x 2 (18)
 
 R8 (inc, sc x 8) x 2 (20)
 
-Switch to Spice yarn
-
 R9 (inc, sc x 9) x 2 (22)
+
+Switch to Spice yarn
 
 R10 (inc, sc x 10) x 2 (24)
 
 R11 (inc, sc x 11) x 2 (26)
 
-R12 sc into each st (26)
+R12 (inc, sc x 12) x 2 (28)
 
-R13-R16 Repeat R12
+R13 (inc, sc x 13) x 2 (30)
 
-R17 (dec, sc x 11) x 2 (24)
+R14 (inc, sc x 14) x 2 (32)
+
+R15 sc into each st (26)
+
+R16-R19 Repeat R12
+
+R20 (dec, sc x 11) x 2 (24)
 
 R18 (dec, sc x 10) x 2 (22)
 
