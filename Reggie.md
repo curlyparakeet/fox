@@ -201,25 +201,25 @@ R13 (inc, sc x 13) x 2 (30)
 
 R14 (inc, sc x 14) x 2 (32)
 
-R15 sc into each st (26)
+R15 sc into each st (32)
 
-R16-R19 Repeat R12
+R16-R19 Repeat R15
 
 R20 (dec, sc x 11) x 2 (24)
 
-R18 (dec, sc x 10) x 2 (22)
+R21 (dec, sc x 10) x 2 (22)
 
-R19 (dec, sc x 9) x 2 (20)
+R22 (dec, sc x 9) x 2 (20)
 
-R20 (dec, sc x 8) x 2 (18)
+R23 (dec, sc x 8) x 2 (18)
 
-R21 sc into each st (18)
+R24 sc into each st (18)
 
-R22 Repeat R21
+R25 Repeat R21
 
-R23 (dec x 2, sc x 5) x 2 (14)
+R26 (dec x 2, sc x 5) x 2 (14)
 
-R24 (dec, sc x 5) x 2 (12)
+R27 (dec, sc x 5) x 2 (12)
 
 R25 sc into each st (12)
 
