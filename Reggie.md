@@ -231,15 +231,17 @@ Complicated bits next - concentrate!
 
 R34 (Starting with the last stitch on one of the outside edges) ch 11. Starting in the 2nd chain from hook, sc 10 (this goes back along the chain towards the base of the tail). sc 9 along one edge of the tail opening. ch 11. Starting in the 2nd chain from hook, sc 10 (this goes back along the chain towards the base of the tail). sc 9 along one edge of the tail opening. (58)
 
-R35 sc 9 (to end of chain from R34). inc. sc 28. inc. sc 19 (60)
+R35 sc 10 (moves starting point to end of row)
 
-R36 sc 10, inc, sc 29 inc, sc 19 (62)
+R36 inc, sc 28. inc. sc 28 (60)
 
-R37 sc 11, inc, sc 30 inc, sc 19 (64)
+R36 sc 29, inc, sc 29, inc (62)
 
+R37 inc, sc 30, inc, sc 30 (64)
 
+R38 sc all around (64)
 
-
+R39-?? Repeat R38
 
 
 R27 (inc, sc) x 6 (18)
