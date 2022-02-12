@@ -203,7 +203,43 @@ R14 (inc, sc x 14) x 2 (32)
 
 R15 sc into each st (32)
 
-R16-R19 Repeat R15
+R16-R23 Repeat R15
+
+R24 (dec, sc x 14) x 2 (30)
+
+R25 (dec, sc x 13) x 2 (28)
+
+R26 (dec, sc x 12) x 2 (26)
+
+R27 (dec, sc x 11) x 2 (24)
+
+R28 (dec, sc x 10) x 2 (22)
+
+Stuff the tail
+
+R29 (dec, sc x 9) x 2 (20)
+
+R30 (dec, sc x 8) x 2 (18)
+
+R31 sc into each st (18)
+
+R32-R33 Repeat R31
+
+Flatten tail,  with  the last worked stitch on one side (i.e. not in the middle). With a spare piece of yarn stitch the tail closed a few rows down from the opening.  This is so the stuffing doesn't fall out!
+
+Complicated bits next - concentrate!
+
+R34 (Starting with the last stitch on one of the outside edges) ch 11. Starting in the 2nd chain from hook, sc 10 (this goes back along the chain towards the base of the tail). sc 9 along one edge of the tail opening. ch 11. Starting in the 2nd chain from hook, sc 10 (this goes back along the chain towards the base of the tail). sc 9 along one edge of the tail opening. (58)
+
+R35 sc 9 (to end of chain from R34). inc. sc 28. inc. sc 19 (60)
+
+R36 sc 10, inc, sc 29 inc, sc 19 (62)
+
+R37 sc 11, inc, sc 30 inc, sc 19 (64)
+
+
+R27 (inc, sc) x 6 (18)
+R28 (inc, sc x 2) x 6 (24)
 
 R20 (dec, sc x 11) x 2 (24)
 
