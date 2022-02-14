@@ -229,56 +229,33 @@ Flatten tail,  with  the last worked stitch on one side (i.e. not in the middle)
 
 Complicated bits next - concentrate!
 
-R34 (Starting with the last stitch on one of the outside edges) ch 11. Starting in the 2nd chain from hook, sc 10 (this goes back along the chain towards the base of the tail). sc 9 along one edge of the tail opening. ch 11. Starting in the 2nd chain from hook, sc 10 (this goes back along the chain towards the base of the tail). sc 9 along one edge of the tail opening. (58)
+This is to make the bottom of the hot water bottle cover. You want this to end up being as wide as your hot water bottle.  If you bottle is a little bit wider or narrower than  mine, then you may need to adjust. I would recommend adding a chain or removing a chain from R34 on each side (i.e. ch 12 or ch 10 rather than ch 11).  If you add or remove from your chains, you will need to add or remove to the italics below.  If you increase your chain to ch12, then you will need to increase the sc steps in R34 to bee sc 11.  You will also need to add **two** to the final number of sts as you will have added one to each side.
 
-R35 sc 10 (moves starting point to end of row)
+R34 (Starting with the last stitch on one of the outside edges) ch 11. Starting in the 2nd chain from hook, _sc 10_ (this goes back along the chain towards the base of the tail). sc 9 along one edge of the tail opening. ch 11. Starting in the 2nd chain from hook, _sc 10_ (this goes back along the chain towards the base of the tail). sc 9 along one edge of the tail opening. (_58_)
 
-R36 inc, sc 28. inc. sc 28 (60)
+R35 _sc 10_ (moves starting point to end of row)
 
-R36 sc 29, inc, sc 29, inc (62)
+R36 inc, _sc 28_. inc. _sc 28 (60)_
 
-R37 inc, sc 30, inc, sc 30 (64)
+R36 _sc 29,_ inc, _sc 29,_ inc _(62)_
 
-R38 sc all around (64)
+R37 inc, _sc 30_, inc,_ sc 30, _(64)_
 
-R39-?? Repeat R38
+R38 sc all around _(64)_
 
+R39-R79 Repeat R38
 
-R27 (inc, sc) x 6 (18)
-R28 (inc, sc x 2) x 6 (24)
+NOTE: The size here depends on the size of your hot water bottle.  This number of rows takes the body of the cover to height just before the shoulders of the bottle start.  Double check the sizing based on your hot water bottle.
 
-R20 (dec, sc x 11) x 2 (24)
+R80. Make sure your last worked stitch is on one of the edges of the cover. If it isn't, sc along until it is.  Bind off. Weave in ends.
 
-R21 (dec, sc x 10) x 2 (22)
+R81: ch 33 (half the total number of sts around your bottle cover + 1)
 
-R22 (dec, sc x 9) x 2 (20)
+R82: sc into 2nd ch from hook.  sc into rest of sts all along. ch turn _(32)_
 
-R23 (dec, sc x 8) x 2 (18)
+R83-R88: Repeat R82
 
-R24 sc into each st (18)
-
-R25 Repeat R21
-
-R26 (dec x 2, sc x 5) x 2 (14)
-
-R27 (dec, sc x 5) x 2 (12)
-
-R25 sc into each st (12)
-
-R26 Repeat R25
-
-R27 (inc, sc) x 6 (18)
-
-R28 (inc, sc x 2) x 6 (24)
-
-R29 (inc, sc x 3) x 6 (30)
-
-R30 (inc, sc x 4) x 6 (36)
-
-R31 sc into each st (36)
-
-R32-R36 Repeat R31
-
+R89: sc into 2nd ch from hook.  sc into rest of sts all along
 ### Options
 
 You can continue with single crochet and continue repeating R31 until the desired scarf length is obtained.  Or you can switch to double crochet so the the scarf works up faster.
