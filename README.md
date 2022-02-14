@@ -28,7 +28,7 @@ Embroidery needle (for stitching on the nose and sewing it all together.)
 
 
 ## Notes
-US crochet terms used through
+US crochet terms used
 
 sc = single crochet
 
