@@ -1,7 +1,7 @@
 # Reggie the Fox 
 This patten should, in theory, make a Foxy hot water bottle cover.  I've only done this pattern once (crocheting and writing up at the same time) so there ~~might~~ will be mistakes. 
 
-Pull requests to correct mistakes greatly appreciated.
+Corrections to mistakes greatly appreciated!
 
 
 You may use this pattern without charge, but you may not sell the pattern or use it to make a product which you sell.
