@@ -258,5 +258,22 @@ This strip forms an overlap so we can slip the hot water bottle in. Next we need
 
 R90 sc into 2nd ch from hook.  sc into rest of sts all along. Lay the strip on the front case and sc into the stitch on the edge of the cover. sc x _32_ around the back of the  case, slst to join to the strip. _(64)_ 
 
-R91 sc x _31_, dec, sc x _31_, dec, (62)
+R91 sc x _30_, dec, sc x _30_, dec _(62)_
 
+R91 sc x _29_, dec, sc x _29_, dec, _(60)_
+
+R92 dec x 2, _sc 22_, dec x 4, sc x _22_ dec x 2 _(52) _ 
+
+R93 dec x 2, _sc 18_, dec x 4, _sc 18_, dec x  2 _(44)_  NB: Not sure about these numbers!!!! 
+
+R94 sc all around _(44)_
+
+R95 dec, _sc x 18_, dec x 2, _sc x 18_, dec _(40)_
+
+R96 dec, _sc x 16_, dec x 2, _sc x 16_, dec _(36)_
+
+R97 dec, _sc x 14_, dec x 2, _sc x 14_, dec _(32)_
+
+R98 sc all around _(32)_
+
+R99-R102 Repeat R98
