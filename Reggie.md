@@ -1,5 +1,5 @@
-# Reggie the Fox scarf
-This patten should, in theory, make a Foxy hot water bottle cover.  I've only done this pattern once (crocheting and making at the same time) so there ~~might~~ will be mistakes. 
+# Reggie the Fox 
+This patten should, in theory, make a Foxy hot water bottle cover.  I've only done this pattern once (crocheting and writing up at the same time) so there ~~might~~ will be mistakes. 
 
 Pull requests to correct mistakes greatly appreciated.
 
@@ -7,14 +7,14 @@ Pull requests to correct mistakes greatly appreciated.
 You may use this pattern without charge, but you may not sell the pattern or use it to make a product which you sell.
 
 
-I made this using King Cole Big Value Chunky yarn with a 5mm hook. The colours are Spice, Black and Cream.
+I made this using King Cole Big Value Chunky yarn (100g ball) with a 5mm hook. The colours are Spice, Black and Cream.
 
 
 ## Materials
 Yarn (I used chunky):
-- Spice (Foxy colour) (~250m) 2 x ball
-- Cream < 20m
--  Black < 20m
+- Spice (Foxy colour) ~2.5 ball
+- Cream < 1 ball
+-  Black <1 ball
 
 Safety eyes (but you could use stitching or buttons).  These will need to be quite large eyes.  The ones I used are 15mm and are too small.  Something around the 20mm would be better. 
 
@@ -64,6 +64,8 @@ R9-20 repeat row 8
 
 Note: if you want longer legs, repeat row 8 until desired length is reached.
 Bind off leaving long tail for stitching.
+
+Option: You could stuff the legs lightly if you want.
 
 ## Head
 
@@ -224,11 +226,11 @@ R31 sc into each st (18)
 
 R32-R33 Repeat R31
 
-Flatten tail,  with  the last worked stitch on one side (i.e. not in the middle). With a spare piece of yarn stitch the tail closed a few rows down from the opening.  This is so the stuffing doesn't fall out!
+Flatten tail,  with  the last worked stitch on one side (i.e. not in the middle). With a spare piece of yarn stitch the tail closed a a row or two down from the opening.  This is so the stuffing doesn't fall out!
 
 Complicated bits next - concentrate!
 
-This is to make the bottom of the hot water bottle cover. You want this to end up being as wide as your hot water bottle.  If you bottle is a little bit wider or narrower than  mine, then you may need to adjust. I would recommend adding a chain or removing a chain from R34 on each side (i.e. ch 12 or ch 10 rather than ch 11).  If you add or remove from your chains, you will need to add or remove to the italics below.  If you increase your chain to ch12, then you will need to increase the sc steps in R34 to bee sc 11.  You will also need to add **two** to the final number of stitches as you will have added one to each side.
+This is to make the bottom of the hot water bottle cover. You want this to end up being as wide as your hot water bottle.  If you bottle is a little bit wider or narrower than  mine, then you may need to adjust. I would recommend adding a chain or removing a chain from R34 on each side (i.e. ch 12 or ch 10 rather than ch 11).  If you add or remove from your chains, you will need to add or remove to the italics in the rest of the pattern below.  So, if you increase your chain to ch12, then you will need to increase the sc steps in R34 to be sc 11.  You will also need to add **two** to the final number of stitches as you will have added one to each side.
 
 R34 (Starting with the last stitch on one of the outside edges) _ch 11_. Starting in the 2nd chain from hook, _sc 10_ (this goes back along the chain towards the base of the tail). sc 9 along one edge of the tail opening. _ch 11_. Starting in the 2nd chain from hook, _sc 10_ (this goes back along the chain towards the base of the tail). sc 9 along one edge of the tail opening. (_58_)
 
@@ -244,29 +246,29 @@ R38 sc all around _(64)_
 
 R39-R79 Repeat R38
 
-NOTE: The size here depends on the size of your hot water bottle.  This number of rows takes the body of the cover to height just before the shoulders of the bottle start.  Double check the sizing based on your hot water bottle.  This pattern works for mine, but not all hot water bottles are created equal!
+NOTE: The size here depends on the size of your hot water bottle.  This number of rows takes the body of the cover to height just before the shoulders of the bottle start.  Double check the sizing based on **your** hot water bottle.  This pattern works for mine, but not all hot water bottles are created equal!
 
 R80 Make sure your last worked stitch is on one of the edges of the cover. If it isn't, sc along until it is.  Bind off. Weave in ends.
 
 R81 _ch 33_ (half the total number of sts around your bottle cover + 1)
 
-R82 sc into 2nd ch from hook.  sc into rest of sts all along. ch turn _(32)_
+R82 sc into 2nd ch from hook.  sc into rest of sts all along. ch 1, turn _(32)_
 
 R83-R89 Repeat R82
 
 This strip forms an overlap so we can slip the hot water bottle in. Next we need to connect this stip to the rest of the case we have already made. 
 
-R90 sc into 2nd ch from hook.  sc into rest of sts all along. Lay the strip on the front case and sc into the stitch on the edge of the cover. sc x _32_ around the back of the  case, slst to join to the strip. _(64)_ 
+R90 sc into 2nd ch from hook.  sc into rest of sts all along. Lay the strip on the front case and sc into the stitch on the edge of the cover. sc x _32_ around the back of the case, slst to join to the strip. _(64)_ 
 
-Stitch the  edges of the  strip to the  edges of the cover.
+Stitch the along the side edges of the  strip to the edges of the cover.
 
 R91 sc x _30_, dec, sc x _30_, dec _(62)_
 
 R91 sc x _29_, dec, sc x _29_, dec, _(60)_
 
-R92 dec x 2, _sc 22_, dec x 4, sc x _22_ dec x 2 _(52) _ 
+R92 dec x 2, _sc 22_, dec x 4, sc x _22_ dec x 2 _(52)_ 
 
-R93 dec x 2, _sc 18_, dec x 4, _sc 18_, dec x  2 _(44)_  NB: Not sure about these numbers!!!! 
+R93 dec x 2, _sc 18_, dec x 4, _sc 18_, dec x  2 _(44)_ 
 
 R94 sc all around _(44)_
 
