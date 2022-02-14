@@ -1,5 +1,5 @@
 # Reggie the Fox 
-This patten should, in theory, make a Foxy hot water bottle cover.  I've only done this pattern once (crocheting and writing up at the same time) so there ~~might~~ will be mistakes. 
+This pattern should, in theory, make a Foxy hot water bottle cover.  I've only done this pattern once (crocheting and writing up at the same time) so there ~~might~~ will be mistakes. 
 
 
 ![Strip](https://github.com/curlyparakeet/fox/blob/main/IMG_7030.jpeg "Strip")
